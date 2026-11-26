@@ -116,4 +116,6 @@ Como o certificado é **autoassinado**, navegadores e sistemas exibirão um avis
 
 ## 📄 Licença
 
-Defina aqui a licença do projeto (por exemplo, MIT) e adicione o arquivo `LICENSE` ao repositório.
+Você pode utilizar, copiar, modificar, distribuir e até mesmo comercializar este software, desde que mantenha o aviso de copyright e o texto da licença original.
+
+Consulte o arquivo LICENSE para acessar os termos completos da licença
